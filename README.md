@@ -15,7 +15,7 @@ By analyzing over 100,000 orders across 9 relational tables, this project uncove
 ---
 
 ## 📊 Interactive Tableau Dashboard
-*(Replace this link with your actual Tableau Public link once published)*
+*(https://public.tableau.com/authoring/manavbhullar/Dashboard1#1)*
 **[View the Live Interactive Dashboard on Tableau Public ↗](#)**
 
 *(If you saved your screenshot as `dashboard.png` in an `assets/` folder, it will appear below)*
