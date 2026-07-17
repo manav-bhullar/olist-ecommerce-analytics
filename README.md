@@ -15,10 +15,9 @@ By analyzing over 100,000 orders across 9 relational tables, this project uncove
 ---
 
 ## 📊 Interactive Tableau Dashboard
-*(https://public.tableau.com/authoring/manavbhullar/Dashboard1#1)*
-**[View the Live Interactive Dashboard on Tableau Public ↗](#)**
+**[View the Live Interactive Dashboard on Tableau Public ↗](https://public.tableau.com/authoring/manavbhullar/Dashboard1#1)**
 
-*(If you saved your screenshot as `dashboard.png` in an `assets/` folder, it will appear below)*
+*(Note: Ensure your dashboard screenshot is saved as `dashboard.png` in the `assets/` folder)*
 ![Olist Seller Performance Dashboard](assets/dashboard.png)
 
 ---
